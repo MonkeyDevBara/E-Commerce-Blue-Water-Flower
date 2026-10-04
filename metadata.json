@@ -1,0 +1,6 @@
+{
+  "name": "BlueWater Flowers | Grosir Bunga & Perlengkapan Florist",
+  "description": "Bunga & Aksesoris Floral Premium, Harga Grosir. Supplier terpercaya impor langsung dari Yiwu, China untuk florist, wedding organizer, dan reseller seluruh Indonesia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
